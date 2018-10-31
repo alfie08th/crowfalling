@@ -1,5 +1,34 @@
+*{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+body{
+width: 100%;
+height: 100%;
+  margin-top:50px;
+}
+.main_div{
+  width:100%;
+  height: 100%;
+  background-color: Green;
+}
 .printcrow{
+  background-color: Dodgerblue;
   color: #000d1a;
+  font-size: 16px;
+  font-family: monospace;
+  font-weight: bold;
+}
+/* .fourhello{
+  margin-top: 50px;
+  background-color: Firebrick;
+  width:100%;
+  height: 50%;
+} */
+
+.jackal{
+  background-color: firebrick;
+  color: #fff;
   font-size: 16px;
   font-family: monospace;
   font-weight: bold;
@@ -8,11 +37,4 @@ h1{
   color: #000d1a;
   font-family: monospace;
   font-weight: bold;
-}
-*{
-  margin-left: 50px;
-}
-body{
-
-  margin-top:50px;
 }
